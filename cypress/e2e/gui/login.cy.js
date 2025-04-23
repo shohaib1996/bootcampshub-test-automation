@@ -20,7 +20,7 @@ describe("Login Page Test Flow", () => {
 
     cy.get('input[type="email"]', { timeout: 10000 }).type("xyz@gmail.com");
 
-    cy.get('input[type="password"]', { timeout: 10000 }).type("123456");
+    cy.get('input[type="password"]', { timeout: 10000 }).type("12345678");
 
     cy.contains("Sign In", { timeout: 10000 }).click();
 
