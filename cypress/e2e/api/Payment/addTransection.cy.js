@@ -28,7 +28,7 @@ describe('Add Transaction API Test', () => {
       // Make API request
       cy.request({
         method: 'POST',
-        url: 'https://staging-api.bootcampshub.ai/api/transaction/addbyuser',
+        url: '/transaction/addbyuser',
         headers: {
           Authorization: authToken,
           Enrollment: enrollmentId,

@@ -1,0 +1,46 @@
+[
+  {
+    "isActive": true,
+    "_id": "65eb5eaff6d7cc3e14e90cd7",
+    "name": "Module",
+    "slug": "module"
+  },
+  {
+    "isActive": true,
+    "_id": "65eb5eaff6d7cc3e14e90cd8",
+    "name": "Workshop video",
+    "slug": "workshop"
+  },
+  {
+    "isActive": true,
+    "_id": "65eb5eaff6d7cc3e14e90cd9",
+    "name": "Interview",
+    "slug": "interview"
+  },
+  {
+    "isActive": true,
+    "_id": "65eb6a8ff6d7cc3e14e90d25",
+    "name": "SSD"
+  },
+  {
+    "isActive": false,
+    "_id": "666981cb925a2b0020eed58b",
+    "name": "testing again"
+  },
+  {
+    "isActive": false,
+    "_id": "67e072877f128d0019027c59",
+    "name": "update the world"
+  },
+  {
+    "isActive": true,
+    "_id": "65eb5eaff6d7cc3e14e90cda",
+    "name": "Lab",
+    "slug": "lab"
+  },
+  {
+    "isActive": false,
+    "_id": "65eb80b2a048d99678800cfc",
+    "name": "yyyyy"
+  }
+]
