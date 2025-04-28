@@ -1,0 +1,15 @@
+{
+  "postId": "680fd5ddff069200190b0d88",
+  "response": {
+    "success": true,
+    "postOption": {
+      "_id": "680fe078ff069200190b0e3e",
+      "post": "680fd5ddff069200190b0d88",
+      "user": "64ef676669eaf6370c11429c",
+      "action": "save",
+      "createdAt": "2025-04-28T20:09:28.510Z",
+      "updatedAt": "2025-04-28T20:09:28.510Z",
+      "__v": 0
+    }
+  }
+}

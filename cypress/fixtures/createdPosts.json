@@ -1,0 +1,37 @@
+{
+  "_id": "680fd5ddff069200190b0d88",
+  "title": "Test Post",
+  "description": "This is a test post",
+  "tags": [
+    "test",
+    "community"
+  ],
+  "isPublished": true,
+  "createdBy": {
+    "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+    "lastName": "Shimul",
+    "_id": "64ef676669eaf6370c11429c",
+    "firstName": "Ashraful",
+    "fullName": "Ashraful Shimul"
+  },
+  "attachments": [
+    {
+      "_id": "680fd5ddff069200190b0d89",
+      "name": "test-image.png",
+      "size": 518902,
+      "type": "image/png",
+      "url": "https://doimages.nyc3.cdn.digitaloceanspaces.com/007BlogBanners2024/nodejs-hosting(tulip).png",
+      "createdAt": "2025-04-28T19:24:13.105Z"
+    }
+  ],
+  "createdAt": "2025-04-28T19:24:13.105Z",
+  "updatedAt": "2025-04-28T19:24:13.105Z",
+  "reactionsCount": 1,
+  "commentsCount": 0,
+  "myReaction": "🥰",
+  "reactions": {
+    "🥰": 1
+  },
+  "isSaved": false,
+  "isReported": false
+}
