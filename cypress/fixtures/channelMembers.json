@@ -1,0 +1,112 @@
+{
+  "chatId": "6812782ce71ca6001a4a0d68",
+  "limit": 15,
+  "page": 1,
+  "response": {
+    "results": [
+      {
+        "_id": "6812782ce71ca6001a4a0d6c",
+        "mute": {
+          "isMuted": false
+        },
+        "notification": {
+          "isOn": true
+        },
+        "isBlocked": false,
+        "isFavourite": false,
+        "role": "owner",
+        "user": {
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "lastName": "Shimul",
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastActive": "2025-04-30T20:22:35.325Z",
+          "fullName": "Ashraful Shimul"
+        },
+        "chat": "6812782ce71ca6001a4a0d68",
+        "__v": 0,
+        "createdAt": "2025-04-30T19:21:16.094Z",
+        "updatedAt": "2025-04-30T19:21:16.094Z"
+      },
+      {
+        "_id": "6812782ce71ca6001a4a0d6a",
+        "mute": {
+          "isMuted": false
+        },
+        "notification": {
+          "isOn": true
+        },
+        "isBlocked": false,
+        "isFavourite": false,
+        "role": "member",
+        "user": {
+          "_id": "65735bbf82ed6844208538b2",
+          "firstName": "Md",
+          "lastName": "Shimul",
+          "profilePicture": "",
+          "fullName": "Md Shimul"
+        },
+        "chat": "6812782ce71ca6001a4a0d68",
+        "__v": 0,
+        "createdAt": "2025-04-30T19:21:16.094Z",
+        "updatedAt": "2025-04-30T19:21:16.094Z"
+      },
+      {
+        "_id": "68127e9be71ca6001a4a1001",
+        "mute": {
+          "isMuted": false
+        },
+        "notification": {
+          "isOn": true
+        },
+        "isBlocked": false,
+        "isFavourite": false,
+        "role": "member",
+        "chat": "6812782ce71ca6001a4a0d68",
+        "user": {
+          "_id": "657b56272531d317382ab01c",
+          "firstName": "Md",
+          "lastName": "Shimul",
+          "profilePicture": "",
+          "lastActive": "2025-04-22T11:56:15.894Z",
+          "fullName": "Md Shimul"
+        },
+        "createdAt": "2025-04-30T19:48:43.300Z",
+        "updatedAt": "2025-04-30T19:48:43.300Z",
+        "__v": 0
+      },
+      {
+        "_id": "6812782ce71ca6001a4a0d6b",
+        "mute": {
+          "isMuted": false
+        },
+        "notification": {
+          "isOn": true
+        },
+        "isBlocked": false,
+        "isFavourite": false,
+        "role": "member",
+        "user": {
+          "_id": "65e930d2aba05c0019044d1d",
+          "firstName": "Trishon",
+          "lastName": "Baidaya",
+          "profilePicture": "",
+          "lastActive": "2025-04-29T10:34:02.800Z",
+          "fullName": "Trishon Baidaya"
+        },
+        "chat": "6812782ce71ca6001a4a0d68",
+        "__v": 0,
+        "createdAt": "2025-04-30T19:21:16.094Z",
+        "updatedAt": "2025-04-30T19:21:16.094Z"
+      }
+    ],
+    "pagination": {
+      "total": 4,
+      "currentPage": 1,
+      "totalPages": 1,
+      "hasNext": false,
+      "hasPrev": false,
+      "limit": 15
+    }
+  }
+}
