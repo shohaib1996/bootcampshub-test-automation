@@ -1,0 +1,36 @@
+{
+  "firstName": "Ashraful",
+  "lastName": "Shimul",
+  "middleInitial": "",
+  "gender": "male",
+  "education": "bachelors",
+  "email": "186mdshimul@gmail.com",
+  "phone": "1234567890",
+  "street": "   Princeton   ",
+  "city": "Cumilla    ",
+  "state": "ny",
+  "country": "bd",
+  "facebook": "https://www.facebook.com/profile.php?id=100027585996757",
+  "linkedin": "https://www.linkedin.com/in/mahfuzur-rahman-shabbir-0496752a4/",
+  "instagram": "https://www.instagram.com",
+  "twitter": "https://www.x.com",
+  "website": "https://www.johndoe.com",
+  "github": "https://github.com/mahfuzrahman99",
+  "dateOfBirth": "1999-12-31T18:00:00.000Z",
+  "about": "I am Ashraful Islam ",
+  "fullName": "Ashraful Shimul",
+  "personalData": {
+    "address": {
+      "street": "   Princeton   ",
+      "city": "Cumilla    ",
+      "state": "ny",
+      "country": "bd"
+    },
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/profile.php?id=100027585996757",
+      "linkedin": "https://www.linkedin.com/in/mahfuzur-rahman-shabbir-0496752a4/",
+      "instagram": "https://www.instagram.com",
+      "github": "https://github.com/mahfuzrahman99"
+    }
+  }
+}

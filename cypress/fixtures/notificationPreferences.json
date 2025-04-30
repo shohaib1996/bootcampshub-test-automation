@@ -1,0 +1,119 @@
+{
+  "preferences": [
+    {
+      "id": "changePassword",
+      "channels": ["push", "sms", "email", "web", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4bd"
+    },
+    {
+      "id": "updateProfile",
+      "channels": ["sms", "web", "push", "email", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4be"
+    },
+    {
+      "id": "changeStatusShowAndTell",
+      "channels": ["chat", "sms", "web", "push", "email"],
+      "_id": "66cb3bc324e209cf61f1a4bf"
+    },
+    {
+      "id": "createMyDocument",
+      "channels": ["sms", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c0"
+    },
+    {
+      "id": "mediaSendingToUser",
+      "channels": ["sms", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c1"
+    },
+    {
+      "id": "createSlide",
+      "channels": ["sms", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c2"
+    },
+    {
+      "id": "createCalendarEvent",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4c3"
+    },
+    {
+      "id": "rescheduleCalendarEvent",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4c4"
+    },
+    {
+      "id": "invitationCalendarEvent",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4c5"
+    },
+    {
+      "id": "createImportantLink",
+      "channels": ["sms", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c6"
+    },
+    {
+      "id": "createContent",
+      "channels": ["sms", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c7"
+    },
+    {
+      "id": "createTemplate",
+      "channels": ["sms", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c8"
+    },
+    {
+      "id": "createDiagram",
+      "channels": ["sms", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4c9"
+    },
+    {
+      "id": "createMockInterview",
+      "channels": ["sms", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4ca"
+    },
+    {
+      "id": "updateTransactionStatus",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4cb"
+    },
+    {
+      "id": "organizationStatusChange",
+      "channels": ["chat", "sms", "web", "push", "email"],
+      "_id": "66cb3bc324e209cf61f1a4cc"
+    },
+    {
+      "id": "enrollmentStatusChange",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4cd"
+    },
+    {
+      "id": "orderStatusChange",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4ce"
+    },
+    {
+      "id": "orderTransactionStatusChange",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4cf"
+    },
+    {
+      "id": "newLessonAdd",
+      "channels": ["chat", "sms", "web", "push"],
+      "_id": "66cb3bc324e209cf61f1a4d0"
+    },
+    {
+      "id": "sendInvoice",
+      "channels": ["sms", "web", "push", "chat"],
+      "_id": "66cb3bc324e209cf61f1a4d1"
+    },
+    {
+      "id": "certificateGenerate",
+      "channels": ["sms", "web", "push", "chat", "email"],
+      "_id": "66cb3bc324e209cf61f1a4d2"
+    },
+    {
+      "id": "calendarReminder",
+      "channels": ["groups", "sms", "web", "push", "chat", "email"],
+      "_id": "676a58242e8b270af40d285f"
+    }
+  ]
+}
