@@ -1,0 +1,31 @@
+{
+  "messageId": "68125701e71ca6001a4a086e",
+  "text": "test message sdf sdfsfd",
+  "files": [
+    {
+      "name": "Screenshot1.png",
+      "type": "image/png",
+      "size": 156692,
+      "url": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746032152940-Screenshot1.png"
+    }
+  ],
+  "response": {
+    "success": true,
+    "message": {
+      "_id": "68125701e71ca6001a4a086e",
+      "text": "test message sdf sdfsfd",
+      "chat": "680961b4ca28da001a41b32f",
+      "files": [
+        {
+          "_id": "68126b96e71ca6001a4a0b4b",
+          "name": "Screenshot1.png",
+          "type": "image/png",
+          "size": 156692,
+          "url": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746032152940-Screenshot1.png",
+          "createdAt": "2025-04-30T18:27:34.343Z"
+        }
+      ],
+      "editedAt": "2025-04-30T18:27:34.338Z"
+    }
+  }
+}

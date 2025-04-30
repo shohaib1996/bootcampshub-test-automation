@@ -1,0 +1,2188 @@
+[
+  {
+    "_id": "680961b4ca28da001a41b32f",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "68125701e71ca6001a4a086e",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "type": "program",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "test message sdf sdfsfd",
+      "chat": "680961b4ca28da001a41b32f",
+      "files": [
+        {
+          "_id": "68126b96e71ca6001a4a0b4b",
+          "name": "Screenshot1.png",
+          "type": "image/png",
+          "size": 156692,
+          "url": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746032152940-Screenshot1.png",
+          "createdAt": "2025-04-30T18:27:34.343Z"
+        }
+      ],
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "emoji": [],
+      "createdAt": "2025-04-30T16:59:45.101Z",
+      "updatedAt": "2025-04-30T16:59:45.101Z",
+      "id": 14,
+      "__v": 0,
+      "reactionsCount": 1,
+      "reactions": {
+        "👍": 1
+      },
+      "myReaction": "👍",
+      "editedAt": "2025-04-30T18:27:34.338Z"
+    },
+    "isArchived": false,
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 2,
+    "isChannel": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": false,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "6801eadb98c7340019be2ba8",
+      "firstName": "Mizanur",
+      "lastName": "Rahman",
+      "profilePicture": "",
+      "type": "marketing",
+      "lastActive": "2025-04-29T23:06:12.285Z",
+      "fullName": "Mizanur Rahman"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680961b4ca28da001a41b331",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "681150fee71ca6001a49e966",
+      "sender": {
+        "_id": "6801eadb98c7340019be2ba8",
+        "firstName": "Mizanur",
+        "lastName": "Rahman",
+        "profilePicture": "",
+        "fullName": "Mizanur Rahman"
+      },
+      "text": "hello",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T22:21:50.508Z",
+      "id": 49
+    },
+    "_id": "680951c8ca28da001a41ac27",
+    "isArchived": false,
+    "name": "new test2",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 9,
+    "description": "test",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745963961440-fef8ea55efbc15295a967587608ee49f.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680951c8ca28da001a41ac2b",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "67d847fc731819001a4500cb",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "68114875e71ca6001a49e219",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "give a script on docker",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T21:45:25.259Z",
+      "id": 10
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "655e50e1b94f7748c583b7b3",
+      "firstName": "AI",
+      "lastName": "Bot",
+      "profilePicture": "",
+      "type": "bot",
+      "fullName": "AI Bot"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67d847fd731819001a4500cd",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6811237ce71ca6001a49d36f",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "link https://www.lipsum.com/ghfd",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T19:07:40.736Z",
+      "id": 74
+    },
+    "_id": "68091a4eca28da001a419b73",
+    "isArchived": false,
+    "name": "TestRid",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 4,
+    "description": "",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/6801eadb98c7340019be2ba8/1745427183290-images-%282%29.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "68091a4eca28da001a419b76",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "6810ddb8e71ca6001a49c951",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T14:10:00.705Z",
+      "id": 100
+    },
+    "_id": "6808e7beca28da001a418fe5",
+    "isArchived": false,
+    "name": "Test with Trishon -",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 6,
+    "description": "test crowd fro developers",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745414798059-106867008.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e7beca28da001a418fe9",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "6810ddb8e71ca6001a49c948",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T14:10:00.674Z",
+      "id": 265
+    },
+    "_id": "67d79bef731819001a44f157",
+    "isArchived": false,
+    "name": "Dev Test Crowd o",
+    "isReadOnly": true,
+    "memberScope": "custom",
+    "membersCount": 10,
+    "description": "This group is for development test purpose",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745413851788-crowd.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": false,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67d79bef731819001a44f15d",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "6807790fa7225f28ec58065c",
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "6810ddb8e71ca6001a49c93a",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T14:10:00.587Z",
+      "id": 9
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "658dbc16434f32a732ecbce7",
+      "firstName": "Global",
+      "lastName": "Reminder",
+      "profilePicture": "",
+      "type": "bot",
+      "fullName": "Global Reminder"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "68077910a7225f28ec58065f",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6810cccde71ca6001a49c31f",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "sagfb\n**shbahs**\nslkbasfkv",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-29T12:57:49.431Z",
+      "id": 45
+    },
+    "_id": "680a10f9ca28da001a41cd48",
+    "isArchived": false,
+    "name": "Dev Crowd -",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 7,
+    "description": "New Crowd For development",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/65e930d2aba05c0019044d1d/1745490297257-106867008.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "680a10f9ca28da001a41cd4c",
+      "notification": {
+        "isOn": false
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "6803224c176d0e0019f50063",
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "680f70e8e71ca6001a497379",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "Trishon\nBaidaya \nShontu\n",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-28T12:13:28.156Z",
+      "id": 18
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "65e930d2aba05c0019044d1d",
+      "firstName": "Trishon",
+      "lastName": "Baidaya",
+      "profilePicture": "",
+      "type": "marketing",
+      "lastActive": "2025-04-29T10:34:02.800Z",
+      "fullName": "Trishon Baidaya"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "6803224c176d0e0019f50066",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "680b5731e71ca6001a48dddf",
+      "sender": {
+        "_id": "65e930d2aba05c0019044d1d",
+        "firstName": "Trishon",
+        "lastName": "Baidaya",
+        "profilePicture": "",
+        "fullName": "Trishon Baidaya"
+      },
+      "text": "ebgledbledkb\n",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-25T09:34:41.342Z",
+      "id": 3
+    },
+    "_id": "680b5685e71ca6001a48dd78",
+    "isArchived": false,
+    "name": "Crowd Owner TBS",
+    "isReadOnly": true,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "sdvsfvb",
+    "avatar": "",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "680b5685e71ca6001a48dd7b",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "680951c9ca28da001a41ac36",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "680951e9ca28da001a41ac5b",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "hello\n",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-23T20:47:37.342Z",
+      "id": 1
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": "680951c8ca28da001a41ac27",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680951c9ca28da001a41ac39",
+      "notification": {
+        "isOn": false
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "delivered",
+      "_id": "6807bccc8b86e4001a6b3178",
+      "sender": {
+        "_id": "6801eadb98c7340019be2ba8",
+        "firstName": "Mizanur",
+        "lastName": "Rahman",
+        "profilePicture": "",
+        "fullName": "Mizanur Rahman"
+      },
+      "text": "Hello",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-22T15:59:08.508Z",
+      "id": 3
+    },
+    "_id": "68075b6e8b86e4001a6b1ccb",
+    "isArchived": true,
+    "name": "New Chat Crowd",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 4,
+    "description": "Test crowd fro developers",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075b6e8b86e4001a6b1ccf",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "67e466e5a24c36001a1855ef",
+    "latestMessage": {
+      "type": "delete",
+      "status": "sent",
+      "_id": "680611298b86e4001a6ad72d",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-21T09:34:33.246Z",
+      "id": 56
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "650e70e7165fc20019352988",
+      "firstName": "Mitul",
+      "lastName": "Das",
+      "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1713424227983-My-Pic.JPEG",
+      "type": "marketing",
+      "lastActive": "2025-04-28T20:00:19.784Z",
+      "fullName": "Mitul Das"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67e466e5a24c36001a1855f1",
+      "notification": {
+        "isOn": false
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "delete",
+      "status": "sent",
+      "_id": "6805d7cbae086c001a636e49",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-21T05:29:47.532Z",
+      "id": 96
+    },
+    "_id": "67de51ddaaebae001936ccd4",
+    "isArchived": false,
+    "name": "Mobile App Testing",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "updated the tetng technoliga",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67de51ddaaebae001936ccd9",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "67e4682aa24c36001a185642",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "68038455ae086c001a6328d1",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "tesy",
+      "files": [],
+      "emoji": [
+        {
+          "_id": "68038457ae086c001a6328e3",
+          "user": "64ef676669eaf6370c11429c",
+          "symbol": "😂",
+          "createdAt": "2025-04-19T11:09:11.801Z"
+        }
+      ],
+      "createdAt": "2025-04-19T11:09:09.396Z",
+      "id": 55
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "64f6239ac137da40e427e73e",
+      "firstName": "md",
+      "lastName": "shimul2",
+      "profilePicture": "",
+      "type": "program",
+      "lastActive": "2025-04-30T14:40:22.728Z",
+      "fullName": "md shimul2"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67e4682aa24c36001a185644",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "67fa6a882be918001a821a6a",
+      "sender": {
+        "_id": "64f6239ac137da40e427e73e",
+        "firstName": "md",
+        "lastName": "shimul2",
+        "profilePicture": "",
+        "fullName": "md shimul2"
+      },
+      "text": "**Title**: Newly Created Chat Crowd Not Displayed in Crowds Section\n\n**Bug Type**: Functionality/Data Refresh Issue\n\n**Bug Details**:\n\n- **Description**: After creating a new chat crowd, the crowd is not immediately visible in the **Crowds** section. The user has to perform a manual action (such as refreshing the page) to see the newly added crowd, which causes confusion and affects the usability.\n- **Steps to Reproduce**:\n\n    1. Navigate to the section where a new chat crowd can be created.\n    2. Create and save a new chat crowd.\n    3. Navigate to the **Crowds** section.\n    4. Observe that the newly created crowd is not listed.\n\n- **Expected Result**: The newly created chat crowd should appear immediately in the **Crowds** section upon successful creation.\n- **Actual Result**: The new chat crowd is not displayed until the page is refreshed or revisited.\n- **Priority**: High (as it causes user confusion and disrupts expected behavior)\n\n**Severity**: Major",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-12T13:28:40.003Z",
+      "id": 2
+    },
+    "_id": "67fa6a0f2be918001a821a26",
+    "isArchived": false,
+    "name": "Test by Shagor",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 6,
+    "description": "***\n\n***\n\n***\n\n***\n\n***",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "67fa6a102be918001a821a28",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "67d907ef731819001a451327",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "67da8501aaebae0019367f00",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "test",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-03-19T08:49:05.783Z",
+      "id": 1
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": "611151c15e58a9b155d8fc6b",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67d907ef731819001a451329",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "67f7648c41b62d001ac75000",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "657b56272531d317382ab01c",
+      "firstName": "Md",
+      "lastName": "Shimul",
+      "profilePicture": "",
+      "type": "marketing",
+      "lastActive": "2025-04-22T11:56:15.894Z",
+      "fullName": "Md Shimul"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67f7648c41b62d001ac75002",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "67f764a541b62d001ac75027",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "651423b14056b16d4042f401",
+      "firstName": "sfsf",
+      "lastName": "shimul",
+      "profilePicture": "",
+      "type": "marketing",
+      "lastActive": "2023-09-27T16:53:42.231Z",
+      "fullName": "sfsf shimul"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67f764a541b62d001ac75029",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "67f764dd41b62d001ac750a3",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "65735bbf82ed6844208538b2",
+      "firstName": "Md",
+      "lastName": "Shimul",
+      "profilePicture": "",
+      "type": "marketing",
+      "fullName": "Md Shimul"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67f764dd41b62d001ac750a5",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "67fe0db92be918001a82bf5c",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": true,
+    "memberScope": "custom",
+    "name": "staging test",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "67fe0db92be918001a82bf5e",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "68075e558b86e4001a6b1d6c",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "New Chat Crowd 2",
+    "description": "ksjdhgsjkahdvg",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075e558b86e4001a6b1d70",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "68075eaf8b86e4001a6b1da4",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Dev Crowd",
+    "description": "gnfgn",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075eaf8b86e4001a6b1da8",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "68075eb08b86e4001a6b1dae",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "68075eaf8b86e4001a6b1da4",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075eb08b86e4001a6b1db0",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "68075eee8b86e4001a6b1de0",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Dev crowd 2",
+    "description": "fnfghn",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075eee8b86e4001a6b1de4",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "68075eef8b86e4001a6b1deb",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "68075eee8b86e4001a6b1de0",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68075eef8b86e4001a6b1ded",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808b4a0ca28da001a417f09",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Test Crowd",
+    "description": "gu",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 5,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b4a0ca28da001a417f0d",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808b4a1ca28da001a417f15",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808b4a0ca28da001a417f09",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b4a1ca28da001a417f17",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808b6f0ca28da001a417fd9",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Test Crowd 2025",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b6f0ca28da001a417fdd",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808b6f1ca28da001a417fe7",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808b6f0ca28da001a417fd9",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b6f1ca28da001a417fe9",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808b882ca28da001a418067",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Test Crowd 25",
+    "description": "rnjfhmnf",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b882ca28da001a41806b",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808b883ca28da001a418072",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808b882ca28da001a418067",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b883ca28da001a418075",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808b9f9ca28da001a4180dc",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": true,
+    "memberScope": "custom",
+    "name": "Dev crowd 25",
+    "description": "jkhgkjh",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b9f9ca28da001a4180de",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808b9faca28da001a4180e7",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808b9f9ca28da001a4180dc",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808b9faca28da001a4180ea",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c54fca28da001a41867a",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "jhgdfhg",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c54fca28da001a41867e",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c550ca28da001a418685",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c54fca28da001a41867a",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c550ca28da001a418687",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c5e8ca28da001a4186c6",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "svsvasfv",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c5e8ca28da001a4186ca",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c5e9ca28da001a4186d2",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c5e8ca28da001a4186c6",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c5e9ca28da001a4186d4",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c64fca28da001a41870a",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "bnhsdgn",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c64fca28da001a41870d",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c650ca28da001a418715",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c64fca28da001a41870a",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c650ca28da001a418718",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c6bbca28da001a418731",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": true,
+    "memberScope": "custom",
+    "name": "fhmnfghmhd",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c6bbca28da001a418735",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c6bcca28da001a41873c",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c6bbca28da001a418731",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c6bcca28da001a41873f",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c791ca28da001a41878e",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "frnfrnff",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 5,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c791ca28da001a418791",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c792ca28da001a41879a",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c791ca28da001a41878e",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c792ca28da001a41879d",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808c9bfca28da001a41885f",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "gfnvnfhnf",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 5,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c9bfca28da001a418863",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808c9c1ca28da001a41886b",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808c9bfca28da001a41885f",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808c9c1ca28da001a41886e",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808cac9ca28da001a4188c9",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "Test Crowd",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 4,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808cac9ca28da001a4188cc",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808cacaca28da001a4188d4",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808cac9ca28da001a4188c9",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808cacaca28da001a4188d7",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808ccd4ca28da001a418941",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "ryjrjt",
+    "description": "rjrtyjtyjt",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808ccd4ca28da001a418945",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808ccd5ca28da001a41894b",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808ccd4ca28da001a418941",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808ccd5ca28da001a41894e",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808e7bfca28da001a418ff2",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808e7beca28da001a418fe5",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e7bfca28da001a418ff5",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808e81fca28da001a41903b",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "ggfhgh",
+    "description": "dghgdfhsdghds",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e81fca28da001a41903f",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808e820ca28da001a419045",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808e81fca28da001a41903b",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e821ca28da001a419047",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808e8a4ca28da001a419096",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "ghbrhdfg",
+    "description": "dhsdghsdgh",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e8a4ca28da001a41909a",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808e8a5ca28da001a4190a0",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808e8a4ca28da001a419096",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e8a5ca28da001a4190a3",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "6808e956ca28da001a4190f5",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "etwhtewh",
+    "description": "wehwethetwh",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e956ca28da001a4190f8",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808e958ca28da001a419100",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808e956ca28da001a4190f5",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e958ca28da001a419102",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {},
+    "_id": "6808ea2fca28da001a41914f",
+    "isArchived": false,
+    "name": "The Art",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "erthrthrth",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745414702332-106867008.jpeg",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808ea2fca28da001a419153",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6808ea30ca28da001a419159",
+    "isChannel": false,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "otherUser": "6808ea2fca28da001a41914f",
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808ea30ca28da001a41915c",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "_id": "68093b4cca28da001a41a276",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "gdgf",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 3,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "68093b4cca28da001a41a27a",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {},
+    "_id": "680a007cca28da001a41c7f9",
+    "isArchived": false,
+    "name": "dghh",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "fgbnfgnbf",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745485948143-pexels-philkallahar-983200.jpg",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680a007cca28da001a41c7fd",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {},
+    "_id": "680a2d1de71ca6001a489f95",
+    "isArchived": false,
+    "name": "New Crowd",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "jkgjhm,k",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745497372741-pexels-philkallahar-983200.jpg",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680a2d1de71ca6001a489f99",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "680a9875e71ca6001a48b99c",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "ubknown crowd test",
+    "description": "",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 2,
+    "latestMessage": {},
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "680a9875e71ca6001a48b99e",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "68127070e71ca6001a4a0bd3",
+    "isChannel": true,
+    "isPublic": false,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "asdf",
+    "description": "asdf",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "",
+    "membersCount": 2,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68127070e71ca6001a4a0bd5",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  }
+]

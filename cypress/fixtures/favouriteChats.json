@@ -1,0 +1,11 @@
+{
+  "chatId": "68127070e71ca6001a4a0bd3",
+  "isFavourite": true,
+  "response": {
+    "success": true,
+    "member": {
+      "isFavourite": true,
+      "_id": "68127070e71ca6001a4a0bd5"
+    }
+  }
+}
