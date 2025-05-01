@@ -4,39 +4,25 @@
     "latestMessage": {
       "type": "message",
       "status": "sent",
-      "_id": "68125701e71ca6001a4a086e",
+      "_id": "6813f15b24488b001ae2b712",
       "sender": {
         "_id": "64ef676669eaf6370c11429c",
         "firstName": "Ashraful",
         "lastName": "Shimul",
-        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1746131458659-sample.jpg",
         "type": "program",
         "fullName": "Ashraful Shimul"
       },
-      "text": "test message sdf sdfsfd",
+      "text": "asdasd",
       "chat": "680961b4ca28da001a41b32f",
-      "files": [
-        {
-          "_id": "68126b96e71ca6001a4a0b4b",
-          "name": "Screenshot1.png",
-          "type": "image/png",
-          "size": 156692,
-          "url": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746032152940-Screenshot1.png",
-          "createdAt": "2025-04-30T18:27:34.343Z"
-        }
-      ],
+      "files": [],
       "organization": "64fcb2e60d2f877aaccb3b26",
       "emoji": [],
-      "createdAt": "2025-04-30T16:59:45.101Z",
-      "updatedAt": "2025-04-30T16:59:45.101Z",
-      "id": 14,
+      "createdAt": "2025-05-01T22:10:35.721Z",
+      "updatedAt": "2025-05-01T22:10:35.721Z",
+      "id": 55,
       "__v": 0,
-      "reactionsCount": 1,
-      "reactions": {
-        "👍": 1
-      },
-      "myReaction": "👍",
-      "editedAt": "2025-04-30T18:27:34.338Z"
+      "editedAt": "2025-05-01T22:11:29.828Z"
     },
     "isArchived": false,
     "isReadOnly": false,
@@ -52,7 +38,7 @@
       "lastName": "Rahman",
       "profilePicture": "",
       "type": "marketing",
-      "lastActive": "2025-04-29T23:06:12.285Z",
+      "lastActive": "2025-05-01T22:12:03.870Z",
       "fullName": "Mizanur Rahman"
     },
     "name": "User Chat",
@@ -74,20 +60,291 @@
   {
     "latestMessage": {
       "type": "message",
-      "status": "delivered",
-      "_id": "681150fee71ca6001a49e966",
+      "status": "sent",
+      "_id": "6813e84224488b001ae2ac82",
       "sender": {
-        "_id": "6801eadb98c7340019be2ba8",
-        "firstName": "Mizanur",
-        "lastName": "Rahman",
-        "profilePicture": "",
-        "fullName": "Mizanur Rahman"
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1746131458659-sample.jpg",
+        "type": "program",
+        "fullName": "Ashraful Shimul"
       },
-      "text": "hello",
+      "text": "Hello2",
+      "chat": "6812782ce71ca6001a4a0d68",
+      "files": [],
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "emoji": [],
+      "createdAt": "2025-05-01T21:31:46.206Z",
+      "updatedAt": "2025-05-01T21:31:46.206Z",
+      "id": 32,
+      "__v": 0,
+      "editedAt": "2025-05-01T21:32:05.917Z"
+    },
+    "_id": "6812782ce71ca6001a4a0d68",
+    "isArchived": false,
+    "name": "Test Channel Name",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 4,
+    "description": "Test description",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746043726385-lms.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6812782ce71ca6001a4a0d6c",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isPublic": false,
+    "_id": "6807790fa7225f28ec58065c",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6813b31c24488b001ae29fcd",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "type": "bot",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"sdf\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-05-01T18:00:00.000Z}} to {{DATE:2025-05-01T18:00:00.000Z}}\n* **Agenda:** dfgdg\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "chat": "6807790fa7225f28ec58065c",
+      "organization": "64fcb2e60d2f877aaccb3b26",
       "files": [],
       "emoji": [],
-      "createdAt": "2025-04-29T22:21:50.508Z",
-      "id": 49
+      "createdAt": "2025-05-01T17:45:00.470Z",
+      "updatedAt": "2025-05-01T17:45:00.470Z",
+      "id": 11,
+      "__v": 0
+    },
+    "isArchived": false,
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 2,
+    "isChannel": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "658dbc16434f32a732ecbce7",
+      "firstName": "Global",
+      "lastName": "Reminder",
+      "profilePicture": "",
+      "type": "bot",
+      "fullName": "Global Reminder"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "68077910a7225f28ec58065f",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "681385bf24488b001ae29a68",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "type": "program",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "",
+      "chat": "67d79bef731819001a44f157",
+      "files": [
+        {
+          "_id": "681385bf24488b001ae29a69",
+          "name": "samplepptx.pptx",
+          "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "size": 413895,
+          "url": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746109882970-samplepptx.pptx",
+          "createdAt": "2025-05-01T14:31:27.738Z"
+        }
+      ],
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "emoji": [],
+      "createdAt": "2025-05-01T14:31:27.738Z",
+      "updatedAt": "2025-05-01T14:31:27.738Z",
+      "id": 278,
+      "__v": 0
+    },
+    "_id": "67d79bef731819001a44f157",
+    "isArchived": false,
+    "name": "Dev Test Crowd o",
+    "isReadOnly": true,
+    "memberScope": "custom",
+    "membersCount": 10,
+    "description": "This group is for development test purpose",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745413851788-crowd.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": false,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67d79bef731819001a44f15d",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6813735c24488b001ae2925f",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "type": "bot",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"Mobile aPp\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-05-01T13:43:00.000Z}} to {{DATE:2025-05-01T14:13:00.000Z}}\n* **Agenda:** dddddd\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "chat": "6808e7beca28da001a418fe5",
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-05-01T13:13:00.501Z",
+      "updatedAt": "2025-05-01T13:13:00.501Z",
+      "id": 101,
+      "__v": 0
+    },
+    "_id": "6808e7beca28da001a418fe5",
+    "isArchived": false,
+    "name": "Test with Trishon -",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 6,
+    "description": "test crowd fro developers",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745414798059-106867008.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6808e7beca28da001a418fe9",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6813735c24488b001ae2925b",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "type": "bot",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"Mobile aPp\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-05-01T13:43:00.000Z}} to {{DATE:2025-05-01T14:13:00.000Z}}\n* **Agenda:** dddddd\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "chat": "68091a4eca28da001a419b73",
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-05-01T13:13:00.483Z",
+      "updatedAt": "2025-05-01T13:13:00.483Z",
+      "id": 75,
+      "__v": 0
+    },
+    "_id": "68091a4eca28da001a419b73",
+    "isArchived": false,
+    "name": "TestRid",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 4,
+    "description": "",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/6801eadb98c7340019be2ba8/1745427183290-images-%282%29.JPEG",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "member",
+      "_id": "68091a4eca28da001a419b76",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "6813735c24488b001ae29250",
+      "sender": {
+        "_id": "658dbc16434f32a732ecbce7",
+        "firstName": "Global",
+        "lastName": "Reminder",
+        "profilePicture": "",
+        "type": "bot",
+        "fullName": "Global Reminder"
+      },
+      "text": "**You have a event titled \"Mobile aPp\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-05-01T13:43:00.000Z}} to {{DATE:2025-05-01T14:13:00.000Z}}\n* **Agenda:** dddddd\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
+      "chat": "680951c8ca28da001a41ac27",
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-05-01T13:13:00.443Z",
+      "updatedAt": "2025-05-01T13:13:00.443Z",
+      "id": 50,
+      "__v": 0
     },
     "_id": "680951c8ca28da001a41ac27",
     "isArchived": false,
@@ -107,6 +364,103 @@
       "isBlocked": false,
       "role": "owner",
       "_id": "680951c8ca28da001a41ac2b",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "isReadOnly": false,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "memberScope": "custom",
+    "isChannel": false,
+    "isPublic": false,
+    "_id": "67e4682aa24c36001a185642",
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "681284b8e71ca6001a4a1140",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "sadf",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-30T20:14:48.123Z",
+      "id": 56
+    },
+    "isArchived": false,
+    "membersCount": 2,
+    "unreadCount": 0,
+    "otherUser": {
+      "_id": "64f6239ac137da40e427e73e",
+      "firstName": "md",
+      "lastName": "shimul2",
+      "profilePicture": "",
+      "type": "program",
+      "lastActive": "2025-04-30T14:40:22.728Z",
+      "fullName": "md shimul2"
+    },
+    "name": "User Chat",
+    "avatar": null,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "67e4682aa24c36001a185644",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    }
+  },
+  {
+    "latestMessage": {
+      "type": "message",
+      "status": "sent",
+      "_id": "681274a0e71ca6001a4a0c9e",
+      "sender": {
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "lastName": "Shimul",
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "fullName": "Ashraful Shimul"
+      },
+      "text": "zvfds",
+      "files": [],
+      "emoji": [],
+      "createdAt": "2025-04-30T19:06:08.056Z",
+      "id": 2
+    },
+    "_id": "68127070e71ca6001a4a0bd3",
+    "isArchived": false,
+    "name": "asdf",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "asdf",
+    "avatar": "",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": false,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": true,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "68127070e71ca6001a4a0bd5",
       "notification": {
         "isOn": true
       },
@@ -159,192 +513,6 @@
       "isBlocked": false,
       "role": "owner",
       "_id": "67d847fd731819001a4500cd",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    }
-  },
-  {
-    "latestMessage": {
-      "type": "message",
-      "status": "sent",
-      "_id": "6811237ce71ca6001a49d36f",
-      "sender": {
-        "_id": "64ef676669eaf6370c11429c",
-        "firstName": "Ashraful",
-        "lastName": "Shimul",
-        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
-        "fullName": "Ashraful Shimul"
-      },
-      "text": "link https://www.lipsum.com/ghfd",
-      "files": [],
-      "emoji": [],
-      "createdAt": "2025-04-29T19:07:40.736Z",
-      "id": 74
-    },
-    "_id": "68091a4eca28da001a419b73",
-    "isArchived": false,
-    "name": "TestRid",
-    "isReadOnly": false,
-    "memberScope": "custom",
-    "membersCount": 4,
-    "description": "",
-    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/6801eadb98c7340019be2ba8/1745427183290-images-%282%29.JPEG",
-    "isChannel": true,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "isPublic": true,
-    "unreadCount": 0,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": true,
-      "isBlocked": false,
-      "role": "member",
-      "_id": "68091a4eca28da001a419b76",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    },
-    "otherUser": {}
-  },
-  {
-    "latestMessage": {
-      "type": "message",
-      "status": "delivered",
-      "_id": "6810ddb8e71ca6001a49c951",
-      "sender": {
-        "_id": "658dbc16434f32a732ecbce7",
-        "firstName": "Global",
-        "lastName": "Reminder",
-        "profilePicture": "",
-        "fullName": "Global Reminder"
-      },
-      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
-      "files": [],
-      "emoji": [],
-      "createdAt": "2025-04-29T14:10:00.705Z",
-      "id": 100
-    },
-    "_id": "6808e7beca28da001a418fe5",
-    "isArchived": false,
-    "name": "Test with Trishon -",
-    "isReadOnly": false,
-    "memberScope": "custom",
-    "membersCount": 6,
-    "description": "test crowd fro developers",
-    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745414798059-106867008.JPEG",
-    "isChannel": true,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "isPublic": true,
-    "unreadCount": 0,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": false,
-      "isBlocked": false,
-      "role": "owner",
-      "_id": "6808e7beca28da001a418fe9",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    },
-    "otherUser": {}
-  },
-  {
-    "latestMessage": {
-      "type": "message",
-      "status": "delivered",
-      "_id": "6810ddb8e71ca6001a49c948",
-      "sender": {
-        "_id": "658dbc16434f32a732ecbce7",
-        "firstName": "Global",
-        "lastName": "Reminder",
-        "profilePicture": "",
-        "fullName": "Global Reminder"
-      },
-      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
-      "files": [],
-      "emoji": [],
-      "createdAt": "2025-04-29T14:10:00.674Z",
-      "id": 265
-    },
-    "_id": "67d79bef731819001a44f157",
-    "isArchived": false,
-    "name": "Dev Test Crowd o",
-    "isReadOnly": true,
-    "memberScope": "custom",
-    "membersCount": 10,
-    "description": "This group is for development test purpose",
-    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1745413851788-crowd.JPEG",
-    "isChannel": true,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "isPublic": false,
-    "unreadCount": 0,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": true,
-      "isBlocked": false,
-      "role": "owner",
-      "_id": "67d79bef731819001a44f15d",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    },
-    "otherUser": {}
-  },
-  {
-    "isReadOnly": false,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "memberScope": "custom",
-    "isChannel": false,
-    "isPublic": false,
-    "_id": "6807790fa7225f28ec58065c",
-    "latestMessage": {
-      "type": "message",
-      "status": "delivered",
-      "_id": "6810ddb8e71ca6001a49c93a",
-      "sender": {
-        "_id": "658dbc16434f32a732ecbce7",
-        "firstName": "Global",
-        "lastName": "Reminder",
-        "profilePicture": "",
-        "fullName": "Global Reminder"
-      },
-      "text": "**You have a event titled \"testttt\" scheduled by Ashraful Shimul which will start after {{TIME-BEFORE}} minutes.**&#x20;\n\n* **Date & Time:** {{DATE:2025-04-29T14:15:00.000Z}} to {{DATE:2025-04-29T14:45:00.000Z}}\n* **Agenda:** eeeee\n* **Action Items:** {{ACTION-ITEMS}}\n* **Follow-up Items:** {{FOLLOW-UP-ITEMS}}\n\n**Please join using this link: {{MEETING-LINK}}**",
-      "files": [],
-      "emoji": [],
-      "createdAt": "2025-04-29T14:10:00.587Z",
-      "id": 9
-    },
-    "isArchived": false,
-    "membersCount": 2,
-    "unreadCount": 0,
-    "otherUser": {
-      "_id": "658dbc16434f32a732ecbce7",
-      "firstName": "Global",
-      "lastName": "Reminder",
-      "profilePicture": "",
-      "type": "bot",
-      "fullName": "Global Reminder"
-    },
-    "name": "User Chat",
-    "avatar": null,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": false,
-      "isBlocked": false,
-      "role": "member",
-      "_id": "68077910a7225f28ec58065f",
       "notification": {
         "isOn": true
       },
@@ -670,109 +838,6 @@
       "isBlocked": false,
       "role": "owner",
       "_id": "67de51ddaaebae001936ccd9",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    },
-    "otherUser": {}
-  },
-  {
-    "isReadOnly": false,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "memberScope": "custom",
-    "isChannel": false,
-    "isPublic": false,
-    "_id": "67e4682aa24c36001a185642",
-    "latestMessage": {
-      "type": "message",
-      "status": "sent",
-      "_id": "68038455ae086c001a6328d1",
-      "sender": {
-        "_id": "64ef676669eaf6370c11429c",
-        "firstName": "Ashraful",
-        "lastName": "Shimul",
-        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
-        "fullName": "Ashraful Shimul"
-      },
-      "text": "tesy",
-      "files": [],
-      "emoji": [
-        {
-          "_id": "68038457ae086c001a6328e3",
-          "user": "64ef676669eaf6370c11429c",
-          "symbol": "😂",
-          "createdAt": "2025-04-19T11:09:11.801Z"
-        }
-      ],
-      "createdAt": "2025-04-19T11:09:09.396Z",
-      "id": 55
-    },
-    "isArchived": false,
-    "membersCount": 2,
-    "unreadCount": 0,
-    "otherUser": {
-      "_id": "64f6239ac137da40e427e73e",
-      "firstName": "md",
-      "lastName": "shimul2",
-      "profilePicture": "",
-      "type": "program",
-      "lastActive": "2025-04-30T14:40:22.728Z",
-      "fullName": "md shimul2"
-    },
-    "name": "User Chat",
-    "avatar": null,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": true,
-      "isBlocked": false,
-      "role": "owner",
-      "_id": "67e4682aa24c36001a185644",
-      "notification": {
-        "isOn": true
-      },
-      "mute": {
-        "isMuted": false
-      }
-    }
-  },
-  {
-    "latestMessage": {
-      "type": "message",
-      "status": "sent",
-      "_id": "67fa6a882be918001a821a6a",
-      "sender": {
-        "_id": "64f6239ac137da40e427e73e",
-        "firstName": "md",
-        "lastName": "shimul2",
-        "profilePicture": "",
-        "fullName": "md shimul2"
-      },
-      "text": "**Title**: Newly Created Chat Crowd Not Displayed in Crowds Section\n\n**Bug Type**: Functionality/Data Refresh Issue\n\n**Bug Details**:\n\n- **Description**: After creating a new chat crowd, the crowd is not immediately visible in the **Crowds** section. The user has to perform a manual action (such as refreshing the page) to see the newly added crowd, which causes confusion and affects the usability.\n- **Steps to Reproduce**:\n\n    1. Navigate to the section where a new chat crowd can be created.\n    2. Create and save a new chat crowd.\n    3. Navigate to the **Crowds** section.\n    4. Observe that the newly created crowd is not listed.\n\n- **Expected Result**: The newly created chat crowd should appear immediately in the **Crowds** section upon successful creation.\n- **Actual Result**: The new chat crowd is not displayed until the page is refreshed or revisited.\n- **Priority**: High (as it causes user confusion and disrupts expected behavior)\n\n**Severity**: Major",
-      "files": [],
-      "emoji": [],
-      "createdAt": "2025-04-12T13:28:40.003Z",
-      "id": 2
-    },
-    "_id": "67fa6a0f2be918001a821a26",
-    "isArchived": false,
-    "name": "Test by Shagor",
-    "isReadOnly": false,
-    "memberScope": "custom",
-    "membersCount": 6,
-    "description": "***\n\n***\n\n***\n\n***\n\n***",
-    "isChannel": true,
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "isPublic": true,
-    "unreadCount": 0,
-    "myData": {
-      "user": "64ef676669eaf6370c11429c",
-      "isFavourite": false,
-      "isBlocked": false,
-      "role": "member",
-      "_id": "67fa6a102be918001a821a28",
       "notification": {
         "isOn": true
       },
@@ -2158,24 +2223,81 @@
     "otherUser": {}
   },
   {
-    "_id": "68127070e71ca6001a4a0bd3",
-    "isChannel": true,
-    "isPublic": false,
-    "isReadOnly": false,
+    "_id": "681274dce71ca6001a4a0cb6",
     "isArchived": false,
+    "name": "test group",
+    "isReadOnly": false,
     "memberScope": "custom",
-    "name": "asdf",
-    "description": "asdf",
-    "organization": "64fcb2e60d2f877aaccb3b26",
-    "avatar": "",
     "membersCount": 2,
+    "description": "sdf",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746040027805-lms.png",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
     "unreadCount": 0,
     "myData": {
       "user": "64ef676669eaf6370c11429c",
-      "isFavourite": true,
+      "isFavourite": false,
       "isBlocked": false,
       "role": "owner",
-      "_id": "68127070e71ca6001a4a0bd5",
+      "_id": "681274dce71ca6001a4a0cb8",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "latestMessage": {},
+    "_id": "6812781ee71ca6001a4a0d5f",
+    "isArchived": false,
+    "name": "test group test group",
+    "isReadOnly": false,
+    "memberScope": "custom",
+    "membersCount": 3,
+    "description": "sdf sdfsd",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746040027805-lms.png",
+    "isChannel": true,
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "isPublic": true,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6812781ee71ca6001a4a0d63",
+      "notification": {
+        "isOn": true
+      },
+      "mute": {
+        "isMuted": false
+      }
+    },
+    "otherUser": {}
+  },
+  {
+    "_id": "6813f24224488b001ae2b76a",
+    "isChannel": true,
+    "isPublic": true,
+    "isReadOnly": false,
+    "isArchived": false,
+    "memberScope": "custom",
+    "name": "test group test group",
+    "description": "sdf sdfsd",
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746040027805-lms.png",
+    "membersCount": 4,
+    "unreadCount": 0,
+    "myData": {
+      "user": "64ef676669eaf6370c11429c",
+      "isFavourite": false,
+      "isBlocked": false,
+      "role": "owner",
+      "_id": "6813f24224488b001ae2b76e",
       "notification": {
         "isOn": true
       },

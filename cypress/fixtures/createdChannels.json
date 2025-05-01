@@ -3,7 +3,7 @@
   "description": "sdf sdfsd",
   "users": [
     "65735bbf82ed6844208538b2",
-    "65e930d2aba05c0019044d1d"
+    "64f6239ac137da40e427e73e"
   ],
   "isReadOnly": false,
   "isPublic": true,
@@ -16,14 +16,14 @@
       "isReadOnly": false,
       "isArchived": false,
       "memberScope": "custom",
-      "_id": "6812782ce71ca6001a4a0d68",
+      "_id": "6813f24224488b001ae2b76a",
       "name": "test group test group",
       "description": "sdf sdfsd",
       "createdBy": "64ef676669eaf6370c11429c",
       "organization": "64fcb2e60d2f877aaccb3b26",
       "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746040027805-lms.png",
-      "createdAt": "2025-04-30T19:21:16.058Z",
-      "updatedAt": "2025-04-30T19:21:16.058Z",
+      "createdAt": "2025-05-01T22:14:26.394Z",
+      "updatedAt": "2025-05-01T22:14:26.394Z",
       "__v": 0,
       "membersCount": 0
     }

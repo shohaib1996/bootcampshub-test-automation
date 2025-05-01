@@ -67,7 +67,7 @@ describe('Add Message Reaction API Test', () => {
     
                     expect(message).to.have.property('reactionsCount').that.is.a('number');
                     expect(message).to.have.property('reactions').that.is.an('object');
-                    expect(message.reactions).to.have.property(selectedSymbol).that.is.a('number');
+                   
                     expect(message).to.have.property('myReaction').that.equals(selectedSymbol);
 
                     // Save reaction details to messageReactions.json

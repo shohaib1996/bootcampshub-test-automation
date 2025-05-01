@@ -1,13 +1,13 @@
 {
-  "channelId": "6812782ce71ca6001a4a0d68",
-  "description": "Test description",
+  "channelId": "6813f24224488b001ae2b76a",
+  "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746043726385-lms.JPEG",
   "response": {
     "success": true,
     "channel": {
       "isPublic": true,
       "isReadOnly": false,
       "memberScope": "custom",
-      "_id": "6812782ce71ca6001a4a0d68",
+      "_id": "6813f24224488b001ae2b76a",
       "name": "Test Channel Name",
       "description": "Test description",
       "avatar": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/chat/64ef676669eaf6370c11429c/1746043726385-lms.JPEG"

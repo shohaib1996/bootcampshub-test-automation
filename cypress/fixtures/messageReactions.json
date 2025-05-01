@@ -1,15 +1,15 @@
 {
   "messageId": "68125701e71ca6001a4a086e",
-  "symbol": "👍",
+  "symbol": "😯",
   "response": {
     "success": true,
     "message": {
       "_id": "68125701e71ca6001a4a086e",
       "reactionsCount": 1,
       "reactions": {
-        "👍": 1
+        "😯": 1
       },
-      "myReaction": "👍"
+      "myReaction": "😯"
     }
   }
 }
