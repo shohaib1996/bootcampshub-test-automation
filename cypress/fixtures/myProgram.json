@@ -1,0 +1,239 @@
+{
+  "program": {
+    "price": {
+      "cost": {
+        "price": 199,
+        "salePrice": 169
+      },
+      "isFree": false
+    },
+    "meta": {
+      "title": "",
+      "description": ""
+    },
+    "salaryForThisRole": {
+      "title": "test role",
+      "description": "test desc"
+    },
+    "recognition": {
+      "title": "Recognition of Schools",
+      "description": "Take one of Schools Hub’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to Take one of Schools Hub’s range of Python courses and learn how to code using this incredibly useful language\n\nTake one of Schools Hub’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to Take one of Schools Hub’s range of Python courses and learn how to code using"
+    },
+    "alumni": {
+      "images": [
+        "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/userdocument/1714771009365-1710051347798-Screenshot-from-2024-03-06-23-16-50.png"
+      ],
+      "title": "assas"
+    },
+    "image": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/program-image/1701707306518-1698481420303-AWS-Thumbnail.j",
+    "label": "Onsale",
+    "language": "English",
+    "tags": [],
+    "shortDetail": "Master Python by building 100 projects",
+    "requirements": "asdf",
+    "description": "<p>Who does not want to work with the best of the best in the industry, such as FAANG companies like Facebook, Amazon, Apple, Netflix, and Google?</p><p><br></p><p>With the AWS CloudOps Engineering course at TS4U, that is now possible.</p><p><br></p><p>As a CloudOps Engineer, you will work with the core team from continuous integration (CI) to continuous deployment (CD) to ensure smooth operations within the company's cloud infrastructure. Your work will be challenging but extremely rewarding as you make significant contributions to the development of cutting-edge technology.</p><p><br></p><p>According to Glassdoor, the average salary of an AWS CloudOps Engineer is an impressive $119,582, with a range of $77k to $153k per year. Plus, with a CloudOps Engineering certificate, you have the potential for further career growth, including opportunities for becoming a CTO.</p><p>But the benefits don't end there. With this course, you'll have access to a range of amenities, including a 401k plan, health insurance, and more. It's the perfect package for anyone who wants to work for a respected engineering company, earn a high salary, and be a core member of a team.</p><p><br></p><p>Join TS4U AWS CloudOps Engineering course today to take your first step toward an exciting and lucrative career!</p><p><br></p><p><br></p><p>With the AWS CloudOps Engineering course at TS4U, that is now possible.</p><p><br></p><p>As a CloudOps Engineer, you will work with the core team from continuous integration (CI) to continuous deployment (CD) to ensure smooth operations within the company's cloud infrastructure. Your work will be challenging but extremely rewarding as you make significant contributions to the development of cutting-edge technology.</p><p><br></p><p>According to Glassdoor, the average salary of an AWS CloudOps Engineer is an impressive $119,582, with a range of $77k to $153k per year. Plus, with a CloudOps Engineering certificate, you have the potential for further career growth, including opportunities for becoming a CTO.</p><p>But the benefits don't end there. With this course, you'll have access to a range of amenities, including a 401k plan, health insurance, and more. It's the perfect package for anyone who wants to work for a respected engineering company, earn a high salary, and be a core member of a team.</p><p><br></p><p>Join TS4U AWS CloudOps Engineering course today to take your first step toward an exciting and lucrative career!</p><p><br></p><p>With the AWS CloudOps Engineering course at TS4U, that is now possible.</p><p><br></p><p>As a CloudOps Engineer, you will work with the core team from continuous integration (CI) to continuous deployment (CD) to ensure smooth operations within the company's cloud infrastructure. Your work will be challenging but extremely rewarding as you make significant contributions to the development of cutting-edge technology.</p><p><br></p><p>According to Glassdoor, the average salary of an AWS CloudOps Engineer is an impressive $119,582, with a range of $77k to $153k per year. Plus, with a CloudOps Engineering certificate, you have the potential for further career growth, including opportunities for becoming a CTO.</p><p>But the benefits don't end there. With this course, you'll have access to a range of amenities, including a 401k plan, health insurance, and more. It's the perfect package for anyone who wants to work for a respected engineering company, earn a high salary, and be a core member of a team.</p><p><br></p><p>Join TS4U AWS CloudOps Engineering course today to take your first step toward an exciting and lucrative career!</p><p><br></p><p>With the AWS CloudOps Engineering course at TS4U, that is now possible.</p><p><br></p><p>As a CloudOps Engineer, you will work with the core team from continuous integration (CI) to continuous deployment (CD) to ensure smooth operations within the company's cloud infrastructure. Your work will be challenging but extremely rewarding as you make significant contributions to the development of cutting-edge technology.</p><p><br></p><p>According to Glassdoor, the average salary of an AWS CloudOps Engineer is an impressive $119,582, with a range of $77k to $153k per year. Plus, with a CloudOps Engineering certificate, you have the potential for further career growth, including opportunities for becoming a CTO.</p><p>But the benefits don't end there. With this course, you'll have access to a range of amenities, including a 401k plan, health insurance, and more. It's the perfect package for anyone who wants to work for a respected engineering company, earn a high salary, and be a core member of a team.</p><p><br></p><p>Join TS4U AWS CloudOps Engineering course today to take your first step toward an exciting and lucrative career!</p>",
+    "shortDescription": "<p>Master Python by building 100 projects</p>",
+    "isDemo": false,
+    "content": null,
+    "type": "program",
+    "isPublished": true,
+    "isFeatured": false,
+    "country": "bd",
+    "branches": [
+      "64fcb4e8944cf215d8d32f95",
+      "6501f83e6e2d050019ec0d0a",
+      "650eae1255c940002013bf9f"
+    ],
+    "_id": "64fcb957b0cf6e9ae43d126d",
+    "title": "first program",
+    "slug": "first-program",
+    "category": "64fcb60cce54960ad07b3948",
+    "subCategory": null,
+    "instructor": {
+      "about": "",
+      "image": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/any-document/1715974121744-1715172973686-shimul_bg.JPEG",
+      "isActive": true,
+      "_id": "64fcb8abb0cf6e9ae43d1264",
+      "name": "Dr. Md Shimul",
+      "email": "186mdshimul@gmail.com",
+      "organization": "64fcb2e60d2f877aaccb3b26",
+      "createdAt": "2023-09-09T18:25:47.278Z",
+      "updatedAt": "2024-05-17T19:28:46.714Z",
+      "__v": 0
+    },
+    "organization": "64fcb2e60d2f877aaccb3b26",
+    "whatLearns": [
+      {
+        "_id": "656dfeb89776a65f746253af",
+        "key": 1,
+        "title": "learns 1"
+      },
+      {
+        "_id": "656dfec09776a65f746253b2",
+        "key": 2,
+        "title": "learns 2"
+      }
+    ],
+    "benefits": [
+      {
+        "_id": "6570d9c93552c80fa4ad1ba1",
+        "title": "test",
+        "description": "sdfadfag",
+        "icon": "FaAdn"
+      }
+    ],
+    "createdAt": "2023-09-09T18:28:39.791Z",
+    "updatedAt": "2025-04-11T08:52:55.437Z",
+    "__v": 0,
+    "progress": [
+      {
+        "_id": "65678d5e590fa5a2c40363a8",
+        "id": "messages",
+        "title": "My Messages edited",
+        "limit": 150,
+        "dynamicVariable": "totalCalendarEvents"
+      },
+      {
+        "_id": "65678cf8590fa5a2c4036394",
+        "id": "showAndTell",
+        "title": "Show And Tell",
+        "limit": 15
+      },
+      {
+        "_id": "65678d5e590fa5a2c40363aa",
+        "id": "events",
+        "title": "My Calender Events",
+        "limit": 10
+      },
+      {
+        "_id": "656797c0590fa5a2c4036479",
+        "id": "uploadedDocuments",
+        "title": "My Uploaded Documents",
+        "limit": 10
+      },
+      {
+        "_id": "656797c0590fa5a2c403647a",
+        "id": "technicalTestAnswers",
+        "title": "Answered Technical Tests",
+        "limit": 10
+      },
+      {
+        "_id": "656797c0590fa5a2c403647e",
+        "id": "day2day",
+        "title": "Day to Day Activities",
+        "limit": 10
+      },
+      {
+        "_id": "6643417c1daa2d598005c833",
+        "id": "dcumentLabsComment",
+        "title": "Document Labs Comments",
+        "limit": 10,
+        "dynamicVariable": "totalLabs"
+      },
+      {
+        "_id": "66439adadafdab26c4db045c",
+        "id": "review",
+        "title": "My Total Reviews",
+        "limit": 10,
+        "dynamicVariable": "totalPurchedCoursesAndBootcamps"
+      },
+      {
+        "_id": "66439adadafdab26c4db045e",
+        "id": "communityPost",
+        "title": "Community Posts",
+        "limit": 10
+      },
+      {
+        "_id": "6643a16f56f80c5dd46e50aa",
+        "id": "mockInterview",
+        "title": "Mock Interviews",
+        "limit": 10,
+        "dynamicVariable": "totalMockInterviews"
+      }
+    ],
+    "pageBuilder": "sAUovqQE9i",
+    "layoutSections": [
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07982",
+        "id": "alumni",
+        "title": "Alumni"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07983",
+        "id": "whatYouLearn",
+        "title": "What you'll learn"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07984",
+        "id": "opportunities",
+        "title": "Next Career Opportunities"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07985",
+        "id": "courseContent",
+        "title": "Course Content",
+        "defaultBranch": ""
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07986",
+        "id": "requirements",
+        "title": "Requirements"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07987",
+        "id": "salary",
+        "title": "Salary For This Role"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07988",
+        "id": "benefits",
+        "title": "Benefits of the course"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e07989",
+        "id": "recognition",
+        "title": "Recognition of Schools"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e0798a",
+        "id": "certificate",
+        "title": "Obtain Certification"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e0798b",
+        "id": "instructurs",
+        "title": "Class Delivery By"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e0798c",
+        "id": "roadmap",
+        "title": "Roadmap"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e0798d",
+        "id": "reviews",
+        "title": "Customer Reviews"
+      },
+      {
+        "isVisible": true,
+        "_id": "66489fd3e44f020019e0798e",
+        "id": "faqs",
+        "title": "FAQS"
+      }
+    ],
+    "faqs": [],
+    "instructors": []
+  }
+}

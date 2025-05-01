@@ -16,11 +16,11 @@ describe('Submit Course Review API Test', () => {
       } = credentials;
   
       // Load programs.json to get the course ID
-      cy.fixture('programSlug.json').then((programs) => {
+      cy.fixture('myProgram.json').then((programs) => {
         // Check if programs exists and has at least one program with an _id
     
         // Use the first program's _id
-        const courseId = programs.courseId
+        const courseId = programs.program._id
   
         // Generate random starCount (1-5) and sample text
         const starCount = Math.floor(Math.random() * 5) + 1; // Random number between 1 and 5

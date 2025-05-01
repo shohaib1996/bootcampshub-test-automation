@@ -1,0 +1,24 @@
+{
+  "response": {
+    "success": true,
+    "review": {
+      "videoUrl": "",
+      "starCount": 5,
+      "status": "pending",
+      "_id": "67fa1901ac6415001900081d",
+      "text": "hello how asdf re you sd",
+      "reviewedBy": {
+        "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+        "lastName": "Shimul",
+        "_id": "64ef676669eaf6370c11429c",
+        "firstName": "Ashraful",
+        "fullName": "Ashraful Shimul"
+      },
+      "course": "64fcb957b0cf6e9ae43d126d",
+      "category": "Student",
+      "createdAt": "2025-04-12T07:40:49.475Z",
+      "updatedAt": "2025-04-28T22:25:13.748Z",
+      "__v": 0
+    }
+  }
+}

@@ -1,11 +1,19 @@
 describe('Update Course Review API Test', () => {
     let credentials;
+    let reviewId;
   
     // Load fixture data before each test
     beforeEach(() => {
       cy.fixture('loginCredential.json').then((data) => {
         credentials = data;
       });
+      cy.fixture('myCourseReview.json').then((data) => {
+        if (!data || !data.response || !data.response.review) {
+          throw new Error('Invalid myCourseReview.json format: Expected response object with reviewId');
+        }
+        reviewId = data.response.review._id; 
+      });
+
     });
   
     it('should successfully update a course review', () => {
@@ -25,7 +33,7 @@ describe('Update Course Review API Test', () => {
       // Make API request
       cy.request({
         method: 'PATCH',
-        url: '/course/review/update/67fa1901ac6415001900081d',
+        url: '/course/review/update/' + reviewId,
         headers: {
           Authorization: authToken,
           Enrollment: enrollmentId,

@@ -1,0 +1,702 @@
+{
+  "response": {
+    "notifications": [
+      {
+        "_id": "681396fd1feffbb854df5bd6",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "680f72d758101a24649656e8",
+        "notificationType": "calendarReminder",
+        "text": "test 1",
+        "variables": {
+          "OBJECTID": "680f72d758101a24649656e8",
+          "TITLE": "test 1",
+          "START-TIME": "{{DATE:2025-05-01T16:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-05-01T16:15:00.000Z}}",
+          "AGENDA": "",
+          "EVENT-TYPE": "event",
+          "MEETING-LOCATION-TYPE": "custom",
+          "MEETING-LOCATION-LINK": ""
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-05-01T15:45:01.099Z",
+        "updatedAt": "2025-05-01T15:45:01.099Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6813736b663681de49d6c4a1",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "6812221880c459001987f504",
+        "notificationType": "calendarReminder",
+        "text": "Mobile aPp",
+        "variables": {
+          "OBJECTID": "6812221880c459001987f504",
+          "TITLE": "Mobile aPp",
+          "START-TIME": "{{DATE:2025-05-01T13:43:00.000Z}}",
+          "END-TIME": "{{DATE:2025-05-01T14:13:00.000Z}}",
+          "AGENDA": "dddddd",
+          "EVENT-TYPE": "event",
+          "MEETING-LOCATION-TYPE": "custom",
+          "MEETING-LOCATION-LINK": ""
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-05-01T13:13:15.634Z",
+        "updatedAt": "2025-05-01T13:13:15.634Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "68128c491feffbb854df5175",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "changePassword",
+        "text": "",
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:47:05.044Z",
+        "updatedAt": "2025-04-30T20:47:05.044Z",
+        "__v": 0,
+        "generatedText": "You have successfully changed your password.",
+        "generatedTitle": "Notification of password change."
+      },
+      {
+        "_id": "68128c481feffbb854df5172",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "changePassword",
+        "text": "",
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:47:04.784Z",
+        "updatedAt": "2025-04-30T20:47:04.784Z",
+        "__v": 0,
+        "generatedText": "You have successfully changed your password.",
+        "generatedTitle": "Notification of password change."
+      },
+      {
+        "_id": "68128be21feffbb854df516b",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:45:22.804Z",
+        "updatedAt": "2025-04-30T20:45:22.804Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "68128be21feffbb854df5168",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": true,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:45:22.313Z",
+        "updatedAt": "2025-05-01T14:34:47.609Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "68128adb1feffbb854df5136",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": true,
+        "entityId": "",
+        "notificationType": "changePassword",
+        "text": "",
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:40:59.748Z",
+        "updatedAt": "2025-05-01T14:34:59.800Z",
+        "__v": 0,
+        "generatedText": "You have successfully changed your password.",
+        "generatedTitle": "Notification of password change."
+      },
+      {
+        "_id": "68128adb1feffbb854df5133",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "changePassword",
+        "text": "",
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:40:59.523Z",
+        "updatedAt": "2025-04-30T20:40:59.523Z",
+        "__v": 0,
+        "generatedText": "You have successfully changed your password.",
+        "generatedTitle": "Notification of password change."
+      },
+      {
+        "_id": "681287381feffbb854df50de",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:25:28.880Z",
+        "updatedAt": "2025-04-30T20:25:28.880Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "681287381feffbb854df50db",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:25:28.530Z",
+        "updatedAt": "2025-04-30T20:25:28.530Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "681287201feffbb854df50d5",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:25:04.857Z",
+        "updatedAt": "2025-04-30T20:25:04.857Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "681287201feffbb854df50d2",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "",
+        "notificationType": "updateProfile",
+        "text": "",
+        "categories": [
+          "global",
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T20:25:04.350Z",
+        "updatedAt": "2025-04-30T20:25:04.350Z",
+        "__v": 0,
+        "generatedText": "Your profile has been updated.\n",
+        "generatedTitle": "Profile Updated"
+      },
+      {
+        "_id": "681265201feffbb854df4ef8",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "67fc9fae05bf7b0019ccec1e",
+        "notificationType": "calendarReminder",
+        "text": "todo repeat update 2",
+        "variables": {
+          "OBJECTID": "67fc9fae05bf7b0019ccec1e",
+          "TITLE": "todo repeat update 2",
+          "START-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "AGENDA": "",
+          "EVENT-TYPE": "task"
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T18:00:00.636Z",
+        "updatedAt": "2025-04-30T18:00:00.636Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6812619e1feffbb854df4eca",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "67fded9a05bf7b0019ccf025",
+        "notificationType": "calendarReminder",
+        "text": "jlnjlknlknlkm",
+        "variables": {
+          "OBJECTID": "67fded9a05bf7b0019ccf025",
+          "TITLE": "jlnjlknlknlkm",
+          "START-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "AGENDA": "djdjdf",
+          "EVENT-TYPE": "event",
+          "MEETING-LOCATION-TYPE": "custom",
+          "MEETING-LOCATION-LINK": ""
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T17:45:02.223Z",
+        "updatedAt": "2025-04-30T17:45:02.223Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6812619d1feffbb854df4ec1",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "",
+          "lastName": "shimul2",
+          "_id": "64f6239ac137da40e427e73e",
+          "firstName": "md",
+          "fullName": "md shimul2"
+        },
+        "opened": false,
+        "entityId": "67fba7e005bf7b0019cce98b",
+        "notificationType": "calendarReminder",
+        "text": "testg",
+        "variables": {
+          "OBJECTID": "67fba7e005bf7b0019cce98b",
+          "TITLE": "testg",
+          "START-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "AGENDA": "",
+          "EVENT-TYPE": "event",
+          "MEETING-LOCATION-TYPE": "meet",
+          "MEETING-LOCATION-LINK": ""
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T17:45:01.406Z",
+        "updatedAt": "2025-04-30T17:45:01.406Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6812619d1feffbb854df4ebb",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "680bf41d0319320019b4307b",
+        "notificationType": "calendarReminder",
+        "text": "asfaf",
+        "variables": {
+          "OBJECTID": "680bf41d0319320019b4307b",
+          "TITLE": "asfaf",
+          "START-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "AGENDA": "asfasf",
+          "EVENT-TYPE": "task"
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T17:45:01.157Z",
+        "updatedAt": "2025-04-30T17:45:01.157Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6812619d1feffbb854df4eaf",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "6811352580c459001987f3c6",
+        "notificationType": "calendarReminder",
+        "text": "shgdjhqgwsdskjahdjkhs",
+        "variables": {
+          "OBJECTID": "6811352580c459001987f3c6",
+          "TITLE": "shgdjhqgwsdskjahdjkhs",
+          "START-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "AGENDA": "hjwgqdjhgjhasg",
+          "EVENT-TYPE": "task"
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T17:45:01.034Z",
+        "updatedAt": "2025-04-30T17:45:01.034Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "6812619d1feffbb854df4ead",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "680bfbfc0319320019b43195",
+        "notificationType": "calendarReminder",
+        "text": "fgjfgj",
+        "variables": {
+          "OBJECTID": "680bfbfc0319320019b43195",
+          "TITLE": "fgjfgj",
+          "START-TIME": "{{DATE:2025-04-30T18:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T18:15:00.000Z}}",
+          "AGENDA": "fgjfjfgj",
+          "EVENT-TYPE": "task"
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T17:45:01.018Z",
+        "updatedAt": "2025-04-30T17:45:01.018Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "68124586a5ba8331cc63d0fe",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "680f72d758101a24649656e7",
+        "notificationType": "calendarReminder",
+        "text": "test 1",
+        "variables": {
+          "OBJECTID": "680f72d758101a24649656e7",
+          "TITLE": "test 1",
+          "START-TIME": "{{DATE:2025-04-30T16:00:00.000Z}}",
+          "END-TIME": "{{DATE:2025-04-30T16:15:00.000Z}}",
+          "AGENDA": "",
+          "EVENT-TYPE": "event",
+          "MEETING-LOCATION-TYPE": "custom",
+          "MEETING-LOCATION-LINK": ""
+        },
+        "categories": [
+          "global"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T15:45:10.641Z",
+        "updatedAt": "2025-04-30T15:45:10.641Z",
+        "__v": 0,
+        "generatedText": "You have a meeting after {{TIME-BEFORE}} minutes",
+        "generatedTitle": "Calendar Event Reminder"
+      },
+      {
+        "_id": "68120ec8d917da852861f536",
+        "userTo": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "userFrom": {
+          "profilePicture": "https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/1719380678611-Screenshot-2024",
+          "lastName": "Shimul",
+          "_id": "64ef676669eaf6370c11429c",
+          "firstName": "Ashraful",
+          "fullName": "Ashraful Shimul"
+        },
+        "opened": false,
+        "entityId": "68120ec7601c45001967411d",
+        "notificationType": "newLessonAdd",
+        "text": "new test",
+        "variables": {
+          "OBJECTID": "68120ec7601c45001967411d",
+          "TITLE": "new test",
+          "TYPE": "quiz",
+          "DURATION": 0
+        },
+        "categories": [
+          "student"
+        ],
+        "indentifier": "global",
+        "createdAt": "2025-04-30T11:51:36.874Z",
+        "updatedAt": "2025-04-30T11:51:36.874Z",
+        "__v": 0,
+        "generatedText": "A new lesson, new test, has been added to your course.",
+        "generatedTitle": "New Lesson"
+      }
+    ],
+    "totalCount": 130,
+    "totalUnread": 84
+  }
+}
