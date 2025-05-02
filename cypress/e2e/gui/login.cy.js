@@ -1,4 +1,4 @@
-describe("Login Page Test Flow", () => {
+describe("Login Page to Video select Test Flow", () => {
   let credentials;
 
   beforeEach(() => {
@@ -58,6 +58,46 @@ describe("Login Page Test Flow", () => {
         .click({
           force: true,
         });
+
+      // Verify URL after clicking "Go to Bootcamp"
+      cy.url({ timeout: 20000 }).should(
+        "eq",
+        "https://staging-portal.bootcampshub.ai/program/first-program"
+      );
+
+      // Locate and click the button containing h3 with "Introduction to JavaScript tt"
+      cy.get(
+        '[data-state="closed"] h3:contains("Introduction to JavaScript tt")',
+        { timeout: 10000 }
+      )
+        .should("be.visible")
+        .parent("div")
+        .parent("div")
+        .parent("div")
+        .parent("button")
+        .click({ force: true });
+
+      // Optional: Add assertion to verify the click action (e.g., accordion opens)
+      cy.get(
+        '[data-state="open"] h3:contains("Introduction to JavaScript tt")',
+        {
+          timeout: 10000,
+        }
+      ).should("exist");
+
+      // Locate and click the nested button containing p with "sss"
+      cy.get('p:contains("sss")', { timeout: 10000 })
+        .should("be.visible")
+        .parents('button[data-state="closed"]')
+        // .parents("h3")
+        // .parents("div")
+        .first()
+        .click({ force: true });
+
+      // Verify the nested accordion opens (adjust based on actual behavior)
+      cy.get('[data-state="open"] p:contains("sss")', {
+        timeout: 10000,
+      }).should("exist");
     });
   });
 });
