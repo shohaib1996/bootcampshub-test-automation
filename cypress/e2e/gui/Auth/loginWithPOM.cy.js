@@ -1,13 +1,7 @@
-import LoginPage from '../page/login';
+import { performLoginDashboardFlow } from "../../../e2e/custom-flows/login-dashboard-flow";
 
-describe("Login Page Test Flow with POM", () => {
-  let credentials;
-
+describe("Login Page Test Flow", () => {
   beforeEach(() => {
-    cy.fixture("userInformation.json").then((data) => {
-      credentials = data;
-    });
-
     cy.on("uncaught:exception", (err) => {
       if (err.message.includes("Minified React error #418")) {
         return false;
@@ -15,16 +9,7 @@ describe("Login Page Test Flow with POM", () => {
     });
   });
 
-  it("should login successfully and navigate to dashboard using POM", () => {
-    const { email, password } = credentials;
-
-    LoginPage.visit();
-    LoginPage.clickLoginButton();
-    LoginPage.verifyLoginPageUrl();
-    LoginPage.enterCredentials(email, password);
-    LoginPage.clickSignIn();
-    LoginPage.verifyDashboardLoaded();
-    LoginPage.switchProgram();
-    LoginPage.goToBootcamp();
+  it("should login successfully and navigate to dashboard", () => {
+    performLoginDashboardFlow();
   });
 });
