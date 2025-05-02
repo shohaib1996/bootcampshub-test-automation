@@ -16,7 +16,7 @@ describe("Login Page Test Flow", () => {
   it("should login successfully and navigate to dashboard", () => {
     const { email, password } = credentials;
 
-    cy.visit("https://staging.bootcampshub.ai/", { timeout: 30000 });
+    cy.visit("/", { timeout: 30000 });
 
     cy.get(".flex.items-center a:nth-child(3) button", {
       timeout: 10000,
